@@ -79,6 +79,6 @@ Step 6.
 
 ```
 OnBootSec=60
-OnUnitActiveSec=60
+OnUnitActiveSec=86400
 ```
 
